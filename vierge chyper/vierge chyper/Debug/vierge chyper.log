@@ -1,0 +1,4 @@
+﻿  vierge chyper.cpp
+c:\users\manol\source\repos\vierge chyper\vierge chyper\vierge chyper.cpp(110): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+c:\users\manol\source\repos\vierge chyper\vierge chyper\vierge chyper.cpp(124): warning C4267: 'argument': conversion from 'size_t' to 'char', possible loss of data
+  vierge chyper.vcxproj -> C:\Users\manol\source\repos\vierge chyper\Debug\vierge chyper.exe
